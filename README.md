@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@tonysorensen4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@tonysorensen4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tony sorensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tony sorensen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tonys4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tony sorensen" height="30" width="40" /></a>
 <a href="https://codesandbox.com/tonysorensen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tonysorensen" height="30" width="40" /></a>
 <a href="https://fb.com/tony sorensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tony sorensen" height="30" width="40" /></a>
 <a href="https://instagram.com/tonysorensen4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonysorensen4" height="30" width="40" /></a>
