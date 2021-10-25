@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tonysorensen4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yI2SYTZbyKDpBwZlVWDCe-UhCHOLt06raxORjZ2VxuE/edit](https://docs.google.com/document/d/1yI2SYTZbyKDpBwZlVWDCe-UhCHOLt06raxORjZ2VxuE/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1yI2SYTZbyKDpBwZlVWDCe-UhCHOLt06raxORjZ2VxuE/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a descendant of Robert the Bruce, King of Scots from 1306-1329.**
 
